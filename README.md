@@ -8,7 +8,7 @@ The raw text has been encrypted by organizer and was finally anonymous so that c
 ### env:
 #### pytorch 0.16.0
 #### sklearn
-#### Tensorflow 1.14.0 (for Pre-Train)
+#### tensorflow 1.14.0 (for Pre-Train)
 #### lightgbm
 #### tqdm 4.47.*
 #### transformers 3.0.*
