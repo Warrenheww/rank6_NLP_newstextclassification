@@ -6,7 +6,7 @@ The introduction of the activity and whole dataset are available: https://tianch
 The raw text has been encrypted by organizer and was finally anonymous so that characters were expressed by a series of numbers. Starters are encouraged to go through the whole competition to have a better understanding of NLP and its framework.
 
 ### env:
-#### pytorch 0.16.0
+#### pytorch 1.6.0
 #### sklearn
 #### tensorflow 1.14.0 (for Pre-Train)
 #### lightgbm
