@@ -12,3 +12,7 @@ The raw text has been encrypted by organizer and was finally anonymous so that c
 #### lightgbm
 #### tqdm 4.47.*
 #### transformers 3.0.*
+
+## Dataset
+
+The news text was divided into 14 classes and labeled so that it's typical supervised learning. Training set and public testing set were avalible before final round, the ranking would be based on the performace of private testing set.
